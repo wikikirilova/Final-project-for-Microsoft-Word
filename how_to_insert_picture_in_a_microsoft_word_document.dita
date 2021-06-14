@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_insert_picture_in_a_microsoft_word_document">
+    <title>How to insert picture in a Microsoft Word document.</title>
+    <shortdesc>Here you will learn how to insert picture in Microsoft Word document.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_qw4_1yq_xpb">
+            <p>Your Word Application have to be installed on your device and you have to have a
+                Microsoft Word document  on which you can work on.</p>
+        </prereq>
+        <context>
+            <p>By completing this task you can insert a picture in a Word document and this will
+                help you to visualise your ideas and thoughts easily.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open Microsoft Word.</cmd>
+            </step>
+            <step>
+                <cmd>Select ''Insert'' button, and press ''Pictures'' icon.</cmd>
+            </step>
+            <step>
+                <cmd><image href="../Insert%20button.png" id="image_akz_zxr_xpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Select the picture you want to insert and press ''Insert'' button.</cmd>
+            </step>
+        </steps>
+        <result id="result_khk_3sp_5pb">
+            <p>The selected  picture is inserted and visualised successfully in the Microsoft Word
+                document! </p>
+        </result>
+        <example id="example_jpb_jsp_5pb">
+            <p>You can insert pictures in your Word document when you need to visualise your ideas
+                easily!</p>
+        </example>
+    </taskbody>
+    <related-links>
+        <link href="https://www.customguide.com/word/how-to-insert-a-picture-in-word" format="html"
+            scope="external"/>
+        <!--Link with additional information on how to insert picture in a Microsoft Word document.-->
+    </related-links>
+</task>
