@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_micosoft_word">
+    <title>What is Micosoft Word.</title>
+    <shortdesc/>
+    <conbody>
+        <p>Microsoft Word is a word processor developed by Microsoft. It was first released on
+            October 25, 1983, under the name Multi-Tool Word for Xenix systems.Subsequent versions
+            were later written for several other platforms including IBM PCs running DOS (1983),
+            Apple Macintosh running the Classic Mac OS (1985), AT&amp;T UNIX PC (1985), Atari ST
+            (1988), OS/2 (1989), Microsoft Windows (1989), SCO Unix (1990), and macOS (2001). You
+            can complete different types of functions such as: changing the text color, centering,
+            bolding and italicizing your text, inserting pictures and creating bullets in your
+            document.</p>
+        <p><image href="../Image%20for%20project.png" id="image_pnp_xyr_xpb"/></p>
+    </conbody>
+    <related-links>
+        <link
+            href="https://business.tutsplus.com/tutorials/what-is-microsoft-word-definition--cms-34990"
+            format="html" scope="external"/>
+        <!--Link with additional information for Microsoft Word .-->
+    </related-links>
+</concept>

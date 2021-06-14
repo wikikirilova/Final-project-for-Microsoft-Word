@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_center_your_text_in_a_microsoft_word_document">
+    <title>How to center your text in a Microsoft Word document.</title>
+    <shortdesc>Here you will learn how to center your text in a Microsoft Word document.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_af3_txq_xpb">
+            <p>Your Word Application have to be installed on your device and you have to have a
+                Microsoft Word document  on which you can work on.</p>
+        </prereq>
+        <context>
+            <p>This task can help you make your text more readable.</p>
+            <p>This task can also help you make the text to look better structured.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the Microsoft Word document.</cmd>
+            </step>
+            <step>
+                <cmd>Select the text which you want to center on the page. </cmd>
+            </step>
+            <step>
+                <cmd>Press CTRL+E.</cmd>
+            </step>
+        </steps>
+        <result id="result_wf3_1rp_5pb">
+            <p>The selected  text is centered on the page successfully!</p>
+        </result>
+        <example id="example_off_brp_5pb">
+            <p>You can center your text when you want to make it more readable for the reader.</p>
+        </example>
+    </taskbody>
+    <related-links>
+        <link href="https://www.wikihow.com/Center-Text-in-Microsoft-Word" format="html"
+            scope="external"/>
+        <!--Link with additional information on how to center your text in a Microsoft Word document.-->
+    </related-links>
+</task>
